@@ -1,2 +1,2 @@
-# vector-ag.github.io
+# Vektor AG
 Website of Vektor AG 
